@@ -7,10 +7,7 @@ Welcome to the Git repository for the Spring Boot microservices project showcasi
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
